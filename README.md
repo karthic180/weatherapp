@@ -23,6 +23,6 @@ Ensure that you have Java installed on your system. If not, download and install
 
 ### How to Run
 
-1. Clone the repository or download the `app.java` file.
+1. Clone the repository or download the `code.java` file.
 2. Open a terminal and navigate to the directory where the file is located.
 3. Compile the Java program using the following command:
